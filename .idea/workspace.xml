@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51d33775-6064-46c3-a65f-fc1308991185" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iEXsd35UHaYY9cWIEX8SjvvGe7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mati_\Desktop\tarea_iwg101-master\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.main.dart">
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51d33775-6064-46c3-a65f-fc1308991185" name="Default Changelist" comment="" />
+      <created>1601473932874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601473932874</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="194" width="1092" height="693" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601473982295">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" width="1092" height="693" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.419.1920.1080/-5760.-418.1920.1080@0.0.1920.1080" timestamp="1601473982295" />
+    <state x="709" y="376" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1601480851341">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="709" y="376" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080/-1920.419.1920.1080/-5760.-418.1920.1080@0.0.1920.1080" timestamp="1601480851341" />
+    <state x="691" y="254" key="#main.dart" timestamp="1601481162302">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="691" y="254" key="#main.dart/0.0.1920.1080/-1920.419.1920.1080/-5760.-418.1920.1080@0.0.1920.1080" timestamp="1601481162302" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1601502688464">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.419.1920.1080/-5760.-418.1920.1080@0.0.1920.1080" timestamp="1601502688464" />
+    <state width="1340" height="265" key="GridCell.Tab.0.bottom" timestamp="1601502745169">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.419.1920.1080/-5760.-418.1920.1080@0.0.1920.1080" timestamp="1601502745169" />
+    <state width="1340" height="265" key="GridCell.Tab.0.center" timestamp="1601502745169">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="265" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.419.1920.1080/-5760.-418.1920.1080@0.0.1920.1080" timestamp="1601502745169" />
+    <state width="1340" height="265" key="GridCell.Tab.0.left" timestamp="1601502745169">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="265" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.419.1920.1080/-5760.-418.1920.1080@0.0.1920.1080" timestamp="1601502745169" />
+    <state width="1340" height="265" key="GridCell.Tab.0.right" timestamp="1601502745169">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="265" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.419.1920.1080/-5760.-418.1920.1080@0.0.1920.1080" timestamp="1601502745169" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1601502641812">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/-1920.419.1920.1080/-5760.-418.1920.1080@0.0.1920.1080" timestamp="1601502641812" />
+    <state x="360" y="140" width="1200" height="800" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601504999748">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="360" y="140" width="1200" height="800" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1080/-1920.419.1920.1080/-5760.-418.1920.1080@0.0.1920.1080" timestamp="1601504999748" />
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1601502609615">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.419.1920.1080/-5760.-418.1920.1080@0.0.1920.1080" timestamp="1601502609615" />
+    <state x="616" y="252" key="run.anything.popup" timestamp="1601481212449">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="252" key="run.anything.popup/0.0.1920.1080/-1920.419.1920.1080/-5760.-418.1920.1080@0.0.1920.1080" timestamp="1601481212449" />
+  </component>
+</project>
